@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automaticallyشكرآلك اخي مستخدم واتساب صــابرسعيد .\nNo need to buy it\n'}
+{'num':'1', 'msgs':'\مرحبا اخي مستخدم واتساب 💗مرحبا اخي مستخدم واتساب صابرسعيد شكرآ لك لاستخدامك واتساب صــــابر💗 .\nNo need to buy it\n'}
