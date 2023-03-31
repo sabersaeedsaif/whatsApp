@@ -1,0 +1,1 @@
+{'ver1':'21', 'ver2':'50', 'ver3':'\n• [Important Update]\n• [improvement] Anti-ban\n• [Update] WhatsApp base to 2.23.1.76\n• [ من المطور ابوصخر (صابر) تحديث جديد مهم]\n• [تحسين] الحماية ضد الحظر\n• [تحديث] قاعدة واتساب الى 2.23.1.76\n' , 'dli':'http://bit.ly/3D3Sga1'}
